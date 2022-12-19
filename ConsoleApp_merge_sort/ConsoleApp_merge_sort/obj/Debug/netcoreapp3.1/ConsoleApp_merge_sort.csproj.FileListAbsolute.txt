@@ -1,0 +1,13 @@
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.exe
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.deps.json
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.runtimeconfig.json
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.runtimeconfig.dev.json
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.dll
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\bin\Debug\netcoreapp3.1\ConsoleApp_merge_sort.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.AssemblyInfoInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.AssemblyInfo.cs
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.dll
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_merge_sort\ConsoleApp_merge_sort\obj\Debug\netcoreapp3.1\ConsoleApp_merge_sort.genruntimeconfig.cache

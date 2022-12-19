@@ -1,0 +1,14 @@
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.exe
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.deps.json
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.runtimeconfig.json
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.runtimeconfig.dev.json
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.dll
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\bin\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.csproj.AssemblyReference.cache
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.AssemblyInfoInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.AssemblyInfo.cs
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.dll
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_insertion_sort\ConsoleApp_insertion_sort\obj\Debug\netcoreapp3.1\ConsoleApp_insertion_sort.genruntimeconfig.cache

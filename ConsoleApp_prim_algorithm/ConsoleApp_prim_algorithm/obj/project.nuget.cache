@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zvEY2ICtyZaT3RuL6YBGoCpA3v7vqM/wS90MfKsvd+HDs7Y9aCUdEI99YD9XftJMPDUCTELKaz7oYP4LPzriw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hussein\\source\\repos\\ConsoleApp_prim_algorithm\\ConsoleApp_prim_algorithm\\ConsoleApp_prim_algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hussein\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

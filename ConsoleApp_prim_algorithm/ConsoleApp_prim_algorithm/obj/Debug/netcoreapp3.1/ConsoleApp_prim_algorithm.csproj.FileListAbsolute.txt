@@ -1,0 +1,13 @@
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.exe
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.deps.json
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.runtimeconfig.json
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.runtimeconfig.dev.json
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.dll
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\bin\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.AssemblyInfoInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.AssemblyInfo.cs
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.dll
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.pdb
+C:\Users\Hussein\source\repos\ConsoleApp_prim_algorithm\ConsoleApp_prim_algorithm\obj\Debug\netcoreapp3.1\ConsoleApp_prim_algorithm.genruntimeconfig.cache
